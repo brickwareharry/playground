@@ -1,0 +1,15 @@
+C:\Users\harry\bw\playground\single_responsibility\bin\Debug\net8.0\single_responsibility.exe
+C:\Users\harry\bw\playground\single_responsibility\bin\Debug\net8.0\single_responsibility.deps.json
+C:\Users\harry\bw\playground\single_responsibility\bin\Debug\net8.0\single_responsibility.runtimeconfig.json
+C:\Users\harry\bw\playground\single_responsibility\bin\Debug\net8.0\single_responsibility.dll
+C:\Users\harry\bw\playground\single_responsibility\bin\Debug\net8.0\single_responsibility.pdb
+C:\Users\harry\bw\playground\single_responsibility\obj\Debug\net8.0\single_responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\bw\playground\single_responsibility\obj\Debug\net8.0\single_responsibility.AssemblyInfoInputs.cache
+C:\Users\harry\bw\playground\single_responsibility\obj\Debug\net8.0\single_responsibility.AssemblyInfo.cs
+C:\Users\harry\bw\playground\single_responsibility\obj\Debug\net8.0\single_responsibility.csproj.CoreCompileInputs.cache
+C:\Users\harry\bw\playground\single_responsibility\obj\Debug\net8.0\single_responsibility.sourcelink.json
+C:\Users\harry\bw\playground\single_responsibility\obj\Debug\net8.0\single_responsibility.dll
+C:\Users\harry\bw\playground\single_responsibility\obj\Debug\net8.0\refint\single_responsibility.dll
+C:\Users\harry\bw\playground\single_responsibility\obj\Debug\net8.0\single_responsibility.pdb
+C:\Users\harry\bw\playground\single_responsibility\obj\Debug\net8.0\single_responsibility.genruntimeconfig.cache
+C:\Users\harry\bw\playground\single_responsibility\obj\Debug\net8.0\ref\single_responsibility.dll
