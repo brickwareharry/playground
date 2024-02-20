@@ -26,3 +26,4 @@ C:\Users\harry\bw\playground1\two_sum\obj\Debug\net8.0\refint\two_sum.dll
 C:\Users\harry\bw\playground1\two_sum\obj\Debug\net8.0\two_sum.pdb
 C:\Users\harry\bw\playground1\two_sum\obj\Debug\net8.0\two_sum.genruntimeconfig.cache
 C:\Users\harry\bw\playground1\two_sum\obj\Debug\net8.0\ref\two_sum.dll
+C:\Users\harry\bw\playground\two_sum\obj\Debug\net8.0\two_sum.sourcelink.json

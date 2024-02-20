@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harry\\bw\\playground1\\two_sum\\two_sum.csproj",
+      "projectUniqueName": "C:\\Users\\harry\\bw\\playground\\two_sum\\two_sum.csproj",
       "projectName": "two_sum",
-      "projectPath": "C:\\Users\\harry\\bw\\playground1\\two_sum\\two_sum.csproj",
+      "projectPath": "C:\\Users\\harry\\bw\\playground\\two_sum\\two_sum.csproj",
       "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\harry\\bw\\playground1\\two_sum\\obj\\",
+      "outputPath": "C:\\Users\\harry\\bw\\playground\\two_sum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

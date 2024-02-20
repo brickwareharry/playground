@@ -32,8 +32,9 @@ class Program
             //validation
             orderValidation.validation();
             // save
+            orderSave.Save();
             //notification
-
+            orderNotification.sendNotification();
             Console.WriteLine("order complete");
         }
     }
