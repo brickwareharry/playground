@@ -1,0 +1,15 @@
+C:\Users\harry\bw\playground\palindrome\bin\Debug\net8.0\palindrome.exe
+C:\Users\harry\bw\playground\palindrome\bin\Debug\net8.0\palindrome.deps.json
+C:\Users\harry\bw\playground\palindrome\bin\Debug\net8.0\palindrome.runtimeconfig.json
+C:\Users\harry\bw\playground\palindrome\bin\Debug\net8.0\palindrome.dll
+C:\Users\harry\bw\playground\palindrome\bin\Debug\net8.0\palindrome.pdb
+C:\Users\harry\bw\playground\palindrome\obj\Debug\net8.0\palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\bw\playground\palindrome\obj\Debug\net8.0\palindrome.AssemblyInfoInputs.cache
+C:\Users\harry\bw\playground\palindrome\obj\Debug\net8.0\palindrome.AssemblyInfo.cs
+C:\Users\harry\bw\playground\palindrome\obj\Debug\net8.0\palindrome.csproj.CoreCompileInputs.cache
+C:\Users\harry\bw\playground\palindrome\obj\Debug\net8.0\palindrome.sourcelink.json
+C:\Users\harry\bw\playground\palindrome\obj\Debug\net8.0\palindrome.dll
+C:\Users\harry\bw\playground\palindrome\obj\Debug\net8.0\refint\palindrome.dll
+C:\Users\harry\bw\playground\palindrome\obj\Debug\net8.0\palindrome.pdb
+C:\Users\harry\bw\playground\palindrome\obj\Debug\net8.0\palindrome.genruntimeconfig.cache
+C:\Users\harry\bw\playground\palindrome\obj\Debug\net8.0\ref\palindrome.dll
