@@ -1,0 +1,15 @@
+C:\Users\harry\bw\playground\dependency_inversion\bin\Debug\net8.0\dependency_inversion.exe
+C:\Users\harry\bw\playground\dependency_inversion\bin\Debug\net8.0\dependency_inversion.deps.json
+C:\Users\harry\bw\playground\dependency_inversion\bin\Debug\net8.0\dependency_inversion.runtimeconfig.json
+C:\Users\harry\bw\playground\dependency_inversion\bin\Debug\net8.0\dependency_inversion.dll
+C:\Users\harry\bw\playground\dependency_inversion\bin\Debug\net8.0\dependency_inversion.pdb
+C:\Users\harry\bw\playground\dependency_inversion\obj\Debug\net8.0\dependency_inversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\bw\playground\dependency_inversion\obj\Debug\net8.0\dependency_inversion.AssemblyInfoInputs.cache
+C:\Users\harry\bw\playground\dependency_inversion\obj\Debug\net8.0\dependency_inversion.AssemblyInfo.cs
+C:\Users\harry\bw\playground\dependency_inversion\obj\Debug\net8.0\dependency_inversion.csproj.CoreCompileInputs.cache
+C:\Users\harry\bw\playground\dependency_inversion\obj\Debug\net8.0\dependency_inversion.sourcelink.json
+C:\Users\harry\bw\playground\dependency_inversion\obj\Debug\net8.0\dependency_inversion.dll
+C:\Users\harry\bw\playground\dependency_inversion\obj\Debug\net8.0\refint\dependency_inversion.dll
+C:\Users\harry\bw\playground\dependency_inversion\obj\Debug\net8.0\dependency_inversion.pdb
+C:\Users\harry\bw\playground\dependency_inversion\obj\Debug\net8.0\dependency_inversion.genruntimeconfig.cache
+C:\Users\harry\bw\playground\dependency_inversion\obj\Debug\net8.0\ref\dependency_inversion.dll
