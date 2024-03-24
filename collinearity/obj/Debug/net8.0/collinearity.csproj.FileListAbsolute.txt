@@ -1,0 +1,15 @@
+C:\Users\harry\bw\playground\collinearity\bin\Debug\net8.0\collinearity.exe
+C:\Users\harry\bw\playground\collinearity\bin\Debug\net8.0\collinearity.deps.json
+C:\Users\harry\bw\playground\collinearity\bin\Debug\net8.0\collinearity.runtimeconfig.json
+C:\Users\harry\bw\playground\collinearity\bin\Debug\net8.0\collinearity.dll
+C:\Users\harry\bw\playground\collinearity\bin\Debug\net8.0\collinearity.pdb
+C:\Users\harry\bw\playground\collinearity\obj\Debug\net8.0\collinearity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\bw\playground\collinearity\obj\Debug\net8.0\collinearity.AssemblyInfoInputs.cache
+C:\Users\harry\bw\playground\collinearity\obj\Debug\net8.0\collinearity.AssemblyInfo.cs
+C:\Users\harry\bw\playground\collinearity\obj\Debug\net8.0\collinearity.csproj.CoreCompileInputs.cache
+C:\Users\harry\bw\playground\collinearity\obj\Debug\net8.0\collinearity.sourcelink.json
+C:\Users\harry\bw\playground\collinearity\obj\Debug\net8.0\collinearity.dll
+C:\Users\harry\bw\playground\collinearity\obj\Debug\net8.0\refint\collinearity.dll
+C:\Users\harry\bw\playground\collinearity\obj\Debug\net8.0\collinearity.pdb
+C:\Users\harry\bw\playground\collinearity\obj\Debug\net8.0\collinearity.genruntimeconfig.cache
+C:\Users\harry\bw\playground\collinearity\obj\Debug\net8.0\ref\collinearity.dll
